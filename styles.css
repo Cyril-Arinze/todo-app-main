@@ -27,6 +27,7 @@ body {
   background-color:var(--Very-Dark-Blue);
   font-size: 18px;
   font-family: 'Josefin Sans', sans-serif;
+  padding-bottom:3px;
 }
 main {
   height: 60vh;
